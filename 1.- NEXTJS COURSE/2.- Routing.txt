@@ -1,0 +1,14 @@
+TYPE OF ROUTES:
+\\\\\\\\\\\\\\\\
+
+- Static routes: routing with file-system
+    /pages/index.js -> '/'
+    /pages/about.js -> '/about'
+    /pages/contact.js -> '/contact'
+
+- Dynamic routes
+    /pages/product/[productId].js
+
+    * To get data of the routes, we must import
+      the package useRouter of "next/router".
+    * https://nextjs.org/docs/routing/dynamic-routes
