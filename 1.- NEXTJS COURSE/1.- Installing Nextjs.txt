@@ -1,0 +1,14 @@
+INSTALL NEXT JS
+---------------
+
+- Requirements:
+    - Node (> 12v, > 10v). NVM | FNM
+    - Git
+    - Browser - Google Chrome - DevTools
+
+- Install
+    - CLI - yarn create next-app
+    - Manual:
+        - mkdir course-nextjs
+        - npm init -y
+        - yarn add next react react-dom
