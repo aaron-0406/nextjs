@@ -1,3 +1,7 @@
 /PROJECTS/next-aguacate/node_modules
-/PROJECTS/next-aguacate/.next
+/PROJECTS/next-aguacate/.next/
+/PROJECTS/next-aguacate/out/
+/PROJECTS/next-aguacate/.pnp
+/PROJECTS/next-aguacate/build
+
 *.log
